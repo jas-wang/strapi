@@ -1,9 +1,9 @@
 <?
 class a {
 
-  function test(){
+ public function test(){
 
-
+return true;
     
   }
 
