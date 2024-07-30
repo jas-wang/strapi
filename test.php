@@ -1,0 +1,10 @@
+<?
+class a {
+
+  function test(){
+
+
+    
+  }
+
+}
